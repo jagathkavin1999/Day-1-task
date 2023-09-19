@@ -1,0 +1,4 @@
+var a = 300;
+var b = 500;
+
+console.log
